@@ -1,0 +1,23 @@
+{
+  "name": "fortifykey_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eli990/fortifykey_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eli990/fortifykey_server/issues"
+  },
+  "homepage": "https://github.com/Eli990/fortifykey_server#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
